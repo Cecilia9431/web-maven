@@ -1,0 +1,6 @@
+com\example\model\Libro.class
+com\example\controller\VisualizzaController.class
+com\example\model\LibroService.class
+com\example\model\LibroDao.class
+com\example\model\LibroDaoImpl.class
+com\example\model\LibroFactory.class
